@@ -1,6 +1,6 @@
 services:
   excalidraw:
-    image: excalidraw/excalidraw
+    image: excalidraw/excalidraw:latest
     ports:
       - 9721:80
     restart: on-failure
