@@ -2,7 +2,7 @@
 Quick Docker & Excalidraw setup
 
 # Steps
-Install docker using the convenince script:
+Install docker using the their script:
 ```
  curl -fsSL https://get.docker.com -o get-docker.sh
  sudo sh ./get-docker.sh --dry-run
