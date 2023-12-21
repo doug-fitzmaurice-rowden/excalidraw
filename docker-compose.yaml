@@ -1,0 +1,8 @@
+services:
+  excalidraw:
+    image: excalidraw/excalidraw
+    ports:
+      - 9721:80
+    restart: on-failure
+    healthcheck:
+      disable: true
